@@ -1,2 +1,2 @@
-# TEI-Training
-Repository for the UW LibID Team's TEI Training course.
+# Text Encoding Initiative Training
+By the UW Libraries' Instructional Design team.
