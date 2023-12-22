@@ -2,5 +2,5 @@
 By the UW Libraries' Instructional Design team.
 
 ## Index
-Week 1: Markup & XML Basics
+Week 1: Markup & XML Basics<br/>
 Week 2: 
